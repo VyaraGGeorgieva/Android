@@ -1,5 +1,0 @@
-Describes the basic structure of information download form the internet;
-Used:
-  - AsyncTask, varargs;
-  - URLs, HttpUrlConnection;
-  - InputStream, InputStreamReader;
